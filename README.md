@@ -18,3 +18,16 @@ samples, guidance on mobile development, and a full API reference.
 ********Smartphone*******
 ![image](https://user-images.githubusercontent.com/64318421/124148834-f32a2e00-da87-11eb-8943-35af47ab9ccb.png)
 
+
+
+
+***DESKTOP****
+![image](https://user-images.githubusercontent.com/64318421/124149607-aabf4000-da88-11eb-8ee9-e684040a8cf4.png)
+
+
+
+
+
+**WEB VERSION**
+![image](https://user-images.githubusercontent.com/64318421/124150089-23be9780-da89-11eb-9049-97ba098a7855.png)
+
